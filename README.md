@@ -175,6 +175,10 @@ If you see the any error while running the command:
 
 Please, make sure all steps are using **the same** python version and that you have **conda installed**. Additionally, *mlflow* and *wandb* packages are crucial and should have the same version.
 
+### Link to WANDB Workspace
+https://wandb.ai/mdieh16-western-governors-university/nyc_airbnb/workspace?nw=nwusermdieh16
+### Link to GitHub
+https://github.com/MD158795/Project-Build-an-ML-Pipeline-Starter
 
 ## License
 
